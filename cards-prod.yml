@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank Platform cards related webhook APIs"
+  message: "Welcome to Bank Platform cards related prodprod APIs"
   contactDetails:
     name: "PhuNguyen - Product Owner"
     email: "phunguyen@giaphu.com"
