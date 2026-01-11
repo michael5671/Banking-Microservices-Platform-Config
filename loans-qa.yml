@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank Platform loans related QA APIs"
+  contactDetails:
+    name: "PhuPhu - QA Lead"
+    email: "phuphu@giaphu.com"
+  onCallSupport:
+    - (321) 123-1234
+    - (321) 123-1235

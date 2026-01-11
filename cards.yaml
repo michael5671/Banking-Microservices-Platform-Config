@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank Platform cards related local APIs"
+  contactDetails:
+    name: "PhuGia - Dev"
+    email: "phugia@giaphu.com"
+  onCallSupport:
+    - (123) 123-1234
+    - (123) 123-1235
